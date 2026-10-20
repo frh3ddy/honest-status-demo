@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "honest-status": {
+      "source": { "source": "github", "repo": "frh3ddy/honest-status" }
+    }
+  },
+  "enabledPlugins": {
+    "honest-status@honest-status": true
+  }
+}

@@ -1,0 +1,2 @@
+# Test files an approver agent may merge without a human (honest-status test-only policy).
+test/**/*.test.ts
